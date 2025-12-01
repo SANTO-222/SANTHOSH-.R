@@ -1,2 +1,1 @@
-# SANTHOSH-.R
- TANDEMLOOP TECHNOLOGIES Round 1
+Programming Language : Java
